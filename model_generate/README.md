@@ -71,6 +71,5 @@ pip3 install flickrapi
     
 4. predict.py
  + We check to see if the prediction is correct by entering the name of the jpg file we are preparing as the first argument
-    
-4. predict.py
- + We check to see if the prediction is correct by entering the name of the jpg file we are preparing as the first argument
+
+5. Finally, place the resulting model, vgg16_sransfer.h5, in /aiapps/car/bike/ml_models/.
